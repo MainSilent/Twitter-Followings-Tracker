@@ -1,0 +1,10 @@
+{
+    "TELEGRAM_BOT_TOKEN": "",
+    "BOT_USERS": [
+        {
+            "TWITTER_BEARER_TOKEN": "",
+            "TWITTER_AUTH_TOKEN": "",
+            "TWITTER_CSRF_KEY": ""
+        }
+    ]
+}
